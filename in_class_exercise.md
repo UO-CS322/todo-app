@@ -1,6 +1,6 @@
 # CS322 W2 In-Class Exercise
 
-Each student should create a new repository and use this repository as a template, let's refer to that repo as "MyRepo". Next, each student should fork *another student's* repository and implement a feature. We'll refer to that repo as "OtherRepo". DO NOT clone your own repository.
+Each student should create a new fork of this repository, let's refer to that repo as "MyRepo". Next, each student should fork *another student's* repository and implement a feature. We'll refer to that repo as "OtherRepo". DO NOT clone your own repository.
 
 Here are the concrete steps to follow:
 
